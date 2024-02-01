@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varenya-gupta
+- 👋 Hi, I’m @varenya-gupta a 14 year old dummy
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Ai based detection models
 
